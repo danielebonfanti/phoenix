@@ -10,6 +10,8 @@
     "nuxt": "3.0.0-rc.8"
   },
   "dependencies": {
+    "@chakra-ui/nuxt": "^0.6.0",
+    "@nuxtjs/emotion": "^0.1.0",
     "@nuxtjs/supabase": "^0.1.23"
   }
 }
